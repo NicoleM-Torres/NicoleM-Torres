@@ -5,3 +5,7 @@
 - 📫 How to reach me nicole.torres@mscoding.org
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love to surf and reading (history books are a favorite). 
+- 💻 Socials: 
+    x.com/NicoleMarytm
+    
+    
