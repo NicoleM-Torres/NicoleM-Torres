@@ -6,7 +6,9 @@
 - 📫 How to reach me nicole.torres@mscoding.org
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love to surf and reading (history books are a favorite). 
-- 💻 Socials: 
+- 💻 Socials:
+    linkedin.com/in/nicole-torresm/
+    shecodes.io/graduates/18360-nicole-torres
     x.com/NicoleMarytm
     
     
