@@ -3,7 +3,7 @@
 - 📜 Certified in C#
 - 🌱 I’m currently learning Front-End -- HTML, CSS, SASS, JAVASCRIPT.
 - 💞️ I’m looking to collaborate on projects that allow me to gain experience and knowledge on accessible technology/tools for the disabled community.
-- 📫 How to reach me nicole.torres@mscoding.org
+- 📫 How to reach me nicole.marytm@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love to surf and read (history books are a favorite). 
 - 💻 Socials:
