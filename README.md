@@ -15,9 +15,3 @@ Currently working on:
 - 📫 How to reach me nicole.marytm@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love to surf and read (history books are a favorite). 
-- 💻 Socials:
-    * [(https://www.linkedin.com/in/nicole-torresm/)](https://www.linkedin.com/in/nicole-torresm/)
-    * [shecodes.io/graduates/18360-nicole-torres](https://www.shecodes.io/graduates/18360-nicole-torres)
-    * [x.com/NicoleMarytm](https://x.com/NicoleMarytm)
-    
-    
